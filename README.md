@@ -1,4 +1,4 @@
-# script_calendar_extract
+script_calendar_extract
 # 2020/09/14
 # script adaptado para extrair os compromissos anotados no google calendar
 # fonte do script original: https://developers.google.com/calendar/quickstart/python
